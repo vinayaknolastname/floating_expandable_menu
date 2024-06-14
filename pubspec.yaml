@@ -2,7 +2,7 @@ name: floating_expandable_menu
 description: "A new Flutter package project."
 version: 0.0.1
 homepage: 
-repository: 
+repository: https://github.com/vinayaknolastname/floating_expandable_menu
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
