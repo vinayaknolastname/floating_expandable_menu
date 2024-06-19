@@ -1,5 +1,5 @@
 name: floating_expandable_menu
-description: "A new Flutter package project."
+description: "A flutter package, with the help of this package you can make a floating menu button, which expands."
 version: 0.0.1
 homepage: 
 repository: https://github.com/vinayaknolastname/floating_expandable_menu
